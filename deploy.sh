@@ -13,6 +13,6 @@ git init
 git add -A
 git commit -m 'deploy'
 
-git push -f https://github.com/galihgpr/project.git master:gh-pages
+git push -f https://github.com/galihgpr/project.git master:hal-baru
 
 cd -
